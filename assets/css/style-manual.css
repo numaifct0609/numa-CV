@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body {
+  font-family: 'Ubuntu Mono';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+.a{
+  text-decoration-line: none;
+}
+.h1{
+  font-size: 6rem;
+}
+
+.remark-code,
+.remark-inline-code {
+  font-family: 'Ubuntu Mono';
+}
+/*clases personalizadas*/
+.blanco{
+  color: white;
+}
+.black{
+  background-color: black;
+}
+.red{
+  color: rgb(249, 38, 114);
+}
+.enlace{
+  font-family: 'Ubuntu Mono';
+  font-size: smaller;
+}
